@@ -1,0 +1,6 @@
+[submodule "contracts"]
+	path = contracts
+	url = https://github.com/alan-negreiros/estoque-contracts.git
+[submodule "config"]
+	path = config
+	url = https://github.com/alan-negreiros/estoque-infra-config.git
